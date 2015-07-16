@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/profile" >
+        <EditTextPreference
+            android:defaultValue="0.0"
+            android:key="lat"
+            android:title="@string/latitude" />
+        <EditTextPreference
+            android:defaultValue="0.0"
+            android:key="lng"
+            android:title="@string/longitude" />
+        <EditTextPreference
+            android:defaultValue="0.0"
+            android:key="elv"
+            android:title="@string/elevation" />
+
+        <ListPreference
+            android:defaultValue="GMT"
+            android:entries="@array/tzValue_array"
+            android:entryValues="@array/tz_array"
+            android:key="tz"
+            android:title="@string/timezone" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/updates" >
+        <ListPreference
+            android:defaultValue="86400000"
+            android:entries="@array/freq_array"
+            android:entryValues="@array/freq_arrayValues"
+            android:key="frequency"
+            android:title="@string/frequency" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/alarms" >
+        <CheckBoxPreference
+            android:key="alarms"
+            android:title="@string/enable" />
+
+        <ListPreference
+            android:defaultValue="30"
+            android:dependency="alarms"
+            android:entries="@array/altitude_array"
+            android:entryValues="@array/altitude_arrayValues"
+            android:key="altitude_alarm"
+            android:title="@string/minimum_altitude" />
+        <ListPreference
+            android:defaultValue="14"
+            android:dependency="alarms"
+            android:entries="@array/brightness_array"
+            android:entryValues="@array/brightness_arrayValues"
+            android:key="brightness_alarm"
+            android:title="@string/minimum_brightness" />
+        <ListPreference
+            android:defaultValue="300000"
+            android:dependency="alarms"
+            android:entries="@array/odds_array"
+            android:entryValues="@array/odds_arrayValues"
+            android:key="odds_alarm"
+            android:title="@string/minutes_before" />
+
+        <ru.snoa.celestialbot.PeriodPreference
+            android:dependency="alarms"
+            android:dialogLayout="@layout/period_preference"
+            android:key="period_alarm"
+            android:title="@string/alarm_period" />
+
+        <RingtonePreference
+            android:dependency="alarms"
+            android:key="ringtone"
+            android:ringtoneType="notification"
+            android:showDefault="true"
+            android:showSilent="true"
+            android:title="@string/ringtone" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

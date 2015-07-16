@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="widgetbg_array">
+        <item>Default</item>
+        <item>Transparent</item>
+    </string-array>
+    
+    <string-array name="freq_array">
+        <item>Disable</item>
+        <item>Every 3 hours</item>
+        <item>Every 6 hours</item>
+        <item>Every 12 hours</item>
+        <item>Every day</item>
+    </string-array>
+    
+    <string-array name="freq_arrayValues">
+        <item>0</item>
+        <item>10800000</item>
+        <item>21600000</item>
+        <item>43200000</item>
+        <item>86400000</item>
+    </string-array>
+    
+    <string-array name="altitude_array">
+        <item>All</item>
+        <item>10°</item>
+        <item>20°</item>
+        <item>30°</item>
+        <item>40°</item>
+        <item>50°</item>
+        <item>60°</item>
+        <item>70°</item>
+        <item>80°</item>
+    </string-array>
+    
+    <string-array name="altitude_arrayValues">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+    </string-array>
+
+    <string-array name="brightness_array">
+        <item>All</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-3</item>
+        <item>-4</item>
+        <item>-5</item>
+        <item>-6</item>
+        <item>-7</item>
+        <item>-8</item>
+    </string-array>
+    
+    <string-array name="brightness_arrayValues">
+        <item>14</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-3</item>
+        <item>-4</item>
+        <item>-5</item>
+        <item>-6</item>
+        <item>-7</item>
+        <item>-8</item>
+    </string-array>
+    
+    <string-array name="odds_array">
+        <item>On time</item>
+        <item>5 minutes before</item>
+        <item>30 minutes before</item>
+    </string-array>
+    
+    <string-array name="odds_arrayValues">
+        <item>0</item>
+        <item>300000</item>
+        <item>1800000</item>
+    </string-array>
+
+    
+    
+</resources>

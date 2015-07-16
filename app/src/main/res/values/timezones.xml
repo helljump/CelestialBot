@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+<string-array name="tz_array">
+  <item>UCT11</item>
+  <item>UCT10</item>
+  <item>AlST</item>
+  <item>NAST</item>
+  <item>PST</item>
+  <item>MxBajaN</item>
+  <item>MxBajaS</item>
+  <item>Arizona</item>
+  <item>UCT7</item>
+  <item>MST</item>
+  <item>Sask</item>
+  <item>CST</item>
+  <item>Mex</item>
+  <item>UCT6</item>
+  <item>EST</item>
+  <item>ACRE</item>
+  <item>UCT5</item>
+  <item>Ven</item>
+  <item>WBST</item>
+  <item>UCT4</item>
+  <item>AST</item>
+  <item>Chile</item>
+  <item>NST</item>
+  <item>NAST3</item>
+  <item>Arg</item>
+  <item>EBST</item>
+  <item>SAT</item>
+  <item>NORO</item>
+  <item>EUT1</item>
+  <item>UCT1</item>
+  <item>UCT</item>
+  <item>GMT</item>
+  <item>PWT</item>
+  <item>WET</item>
+  <item>CET</item>
+  <item>UCTm1</item>
+  <item>UCTm2</item>
+  <item>SST</item>
+  <item>SAST</item>
+  <item>EUTm2</item>
+  <item>EET</item>
+  <item>EET</item>
+  <item>Egypt</item>
+  <item>Israel</item>
+  <item>JST</item>
+  <item>IST</item>
+  <item>RFTm2</item>
+  <item>UCTm3</item>
+  <item>Iran</item>
+  <item>UCTm4</item>
+  <item>RFTm3</item>
+  <item>UAEST</item>
+  <item>AFG</item>
+  <item>RFTm4</item>
+  <item>UCTm5</item>
+  <item>UCTm5colon30</item>
+  <item>UCTm5colon45</item>
+  <item>UCTm6</item>
+  <item>RFTm5</item>
+  <item>UCTm6colon30</item>
+  <item>UCTm7</item>
+  <item>RFTm6</item>
+  <item>RFTm7</item>
+  <item>UCTm8</item>
+  <item>MALST</item>
+  <item>ChST</item>
+  <item>WAST</item>
+  <item>JapST</item>
+  <item>UCTm9</item>
+  <item>RFTm8</item>
+  <item>UCTm9colon30</item>
+  <item>ACST</item>
+  <item>AEST</item>
+  <item>UCTm10</item>
+  <item>RFTm9</item>
+  <item>TST</item>
+  <item>UCTm11</item>
+  <item>RFTm10</item>
+  <item>UCTm11colon30</item>
+  <item>UCTm12</item>
+  <item>RFTm11</item>
+  <item>NZST</item>
+  <item>RFTm12</item>
+  <item>UCTm13</item>
+</string-array>
+<string-array name="tzValue_array">
+  <item>(GMT -11) American Samoa, Midway Is., Niue Is.</item>
+  <item>(GMT -10) USA (Hawaii), Tahiti, Cook Is.</item>
+  <item>(GMT -10) USA (Aleutian Is.)</item>
+  <item>(GMT -9) USA (Alaska)</item>
+  <item>(GMT -8) USA (Pacific), Canada (Pacific &amp; Yukon)</item>
+  <item>(GMT -8) Mexico (Baja N.)</item>
+  <item>(GMT -7) Mexico (Baja S.)</item>
+  <item>(GMT -7) USA (Arizona)</item>
+  <item>(GMT -7) UCT7</item>
+  <item>(GMT -7) USA (Mountain), Canada (Mountain)</item>
+  <item>(GMT -6) Canada (Saskatchewan)</item>
+  <item>(GMT -6) USA (Central), Canada (Central)</item>
+  <item>(GMT -6) Mexico</item>
+  <item>(GMT -6) Belize, Costa Rica, El Salvador</item>
+  <item>(GMT -5) USA (Eastern), Canada (Eastern), Bahamas</item>
+  <item>(GMT -5) Brazil (Trinity of Acre)</item>
+  <item>(GMT -5) Cayman Is., Colombia, Ecuador</item>
+  <item>(GMT -4.5) Venezuela</item>
+  <item>(GMT -4) Brazil (West)</item>
+  <item>(GMT -4) Barbados, Bolivia, Dominican Republic</item>
+  <item>(GMT -4) Canada (Atlantic), Bermuda, Greenland (Thule)</item>
+  <item>(GMT -4) Chile</item>
+  <item>(GMT -3.5) Canada (Newfoundland)</item>
+  <item>(GMT -3) Saint Pierre &amp; Miquelon</item>
+  <item>(GMT -3) Argentina</item>
+  <item>(GMT -3) Brazil (East, including all coast and Brasilia)</item>
+  <item>(GMT -3) Argentina, French Guiana, Surinam</item>
+  <item>(GMT -2) Brazil (Fernando De Noronha)</item>
+  <item>(GMT -1) Greenland (Scoresbysund), Portugal (Azores)</item>
+  <item>(GMT -1) Cape Verde Is</item>
+  <item>(GMT +0) Iceland, Mali, Ivory Coast</item>
+  <item>(GMT +0) United Kingdom, Ireland</item>
+  <item>(GMT +0) Portugal, Madeira</item>
+  <item>(GMT +0) Spain (Canary Is.), Faroe Islands</item>
+  <item>(GMT +1) Austria, Belgium, Denmark</item>
+  <item>(GMT +1) Algeria, Angola, Cameroon</item>
+  <item>(GMT +2) Botswana, Burundi, Estonia</item>
+  <item>(GMT +2) Syria</item>
+  <item>(GMT +2) South Africa</item>
+  <item>(GMT +2) Lebanon</item>
+  <item>(GMT +2) Bulgaria, Finland, Greece</item>
+  <item>(GMT +2) Україна</item>
+  <item>(GMT +2) Egypt</item>
+  <item>(GMT +2) Israel</item>
+  <item>(GMT +2) Jordan</item>
+  <item>(GMT +3) Iraq</item>
+  <item>(GMT +3) Российская Федерация (Зона 1)</item>
+  <item>(GMT +3) Ethiopia, Kenya, Kuwait</item>
+  <item>(GMT +3.5) Iran</item>
+  <item>(GMT +4) Azerbaijan, Mauritius, Oman</item>
+  <item>(GMT +4) Российская Федерация (Зона 2)</item>
+  <item>(GMT +4) United Arab Emirates</item>
+  <item>(GMT +4.5) Afghanistan</item>
+  <item>(GMT +5) Российская Федерация (Зона 3)</item>
+  <item>(GMT +5) Maldives, Pakistan, Tajikistan</item>
+  <item>(GMT +5.5) India, Sri Lanka</item>
+  <item>(GMT +5.75) Nepal</item>
+  <item>(GMT +6) Bangladesh, Bhutan</item>
+  <item>(GMT +6) Российская Федерация (Зона 4)</item>
+  <item>(GMT +6.5) Myanmar, Cocos (Keeling) Is.</item>
+  <item>(GMT +7) Cambodia, Kampuchea, Indonesia (West)</item>
+  <item>(GMT +7) Российская Федерация (Зона 5)</item>
+  <item>(GMT +8) Российская Федерация (Зона 6)</item>
+  <item>(GMT +8) Brunei</item>
+  <item>(GMT +8) Malaysia, Singapore, Indonesia (Central)</item>
+  <item>(GMT +8) China, Hong Kong, Taiwan</item>
+  <item>(GMT +8) Australia (Western)</item>
+  <item>(GMT +9) Japan</item>
+  <item>(GMT +9) Indonesia (East), Korea</item>
+  <item>(GMT +9) Российская Федерация (Зона 7)</item>
+  <item>(GMT +9.5) Australia (Northern Territory)</item>
+  <item>(GMT +9.5) Australia (South Australia and Broken Hill)</item>
+  <item>(GMT +10) Australia (NSW, Capitol Territory, Victoria)</item>
+  <item>(GMT +10) Australia (Queensland), Guam, Papua New Guinea</item>
+  <item>(GMT +10) Российская Федерация (Зона 8)</item>
+  <item>(GMT +10) Australia (Tasmania)</item>
+  <item>(GMT +11) New Caledonia, Solomon Is., Vanuatu</item>
+  <item>(GMT +11) Russian Federation (Zone 9)</item>
+  <item>(GMT +11.5) Norfolk Is.</item>
+  <item>(GMT +12) Fiji, Kiribati, Nauru</item>
+  <item>(GMT +12) Российская Федерация (Зона 10)</item>
+  <item>(GMT +12) New Zealand</item>
+  <item>(GMT +13) Российская Федерация (Зона 11)</item>
+  <item>(GMT +13) Tonga</item>
+</string-array>
+</resources>

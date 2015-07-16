@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Неборобот</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_donate">Неборобот(Про)</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="position_defined">Расположение определено</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="menu_whereiam">Где я?</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
+    <string name="elevation">Возвышение</string>
+    <string name="timezone">Временная зона</string>
+    <string name="no_data">Нет данных</string>
+    <string name="menu_about">О программе</string>
+    <string name="reloading_passes">События обновлены</string>
+    <string name="no_internet_connection">Нет подключения</string>
+    <string name="profile">Профиль</string>
+    <string name="updates">Обновления</string>
+    <string name="alarms">Напоминания</string>
+    <string name="frequency">Частота</string>
+    <string name="about_message">Неофициальный клиент \nwww.heavens-above.com от snoa.\nОгромное спасибо Chris Peat, 
+Heavens-Above GmbH.</string>
+    <string name="eulatext">Программное обеспечение поставляется как есть, без каких-либо гарантий.
+Разработчики не несут ответственности за любой моральный, материальный либо физический вред нанесенный использованием,
+а равно как и не использованием данного п/о.</string>
+    <string name="updatestext">"Изменения:
+- Русская локализация."</string>
+    <string name="please_configure">Пожалуйста, установите ваше расположения и временную зону в настройках.</string>
+    <string name="satellite_alarm">Напоминания</string>
+    <string name="notif_text">%1$s(%2$.1f) а %3$s %4$.1f°(%5$s) %6$.1f°</string>
+    <string name="getting_passes">Обновление данных</string>
+    <string name="download_passes">Получение данных с Heavens-above</string>
+    <string name="compass">Компас</string>
+    <string name="connection_error">Ошибка подключения</string>
+    <string name="last_update">"Крайнее обновление: "</string>
+    <string name="old_event">--:--:--</string>
+    <string name="compass_time">%1$02d:%2$02d:%3$02d</string>
+    <string name="donation">Дотация!</string>
+    <string name="billing_not_suported">Биллинг не подддерживается</string>
+    <string name="can_not_connect_to_market">Нет подключения к Google Play</string>
+    <string name="restoring_transactions">Восстановление покупок</string>
+    <string name="share">Поделиться</string>
+    <string name="select_target">Укажите назначение</string>
+    <string name="celestial_bot_event">Событие Небобота</string>
+    <string name="wrong_value">Неверное значение. Должно быть числом.</string>
+    <string name="hello_world">Привет мир!</string>
+    <string name="title_activity_pages">Страницы</string>
+    <string name="enable">Включено</string>
+    <string name="minimum_altitude">Минимальная высота</string>
+    <string name="minimum_brightness">Минимальная яркость</string>
+    <string name="minutes_before">За какое время</string>
+    <string name="ringtone">Звонок</string>
+    <string name="alarm_period">Время напоминаний</string>
+    <string name="widget_configure">Настройки виджета</string>
+    <string name="ok">Готово</string>
+    <string name="background">Фон</string>
+</resources>
